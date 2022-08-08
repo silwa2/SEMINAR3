@@ -11,7 +11,15 @@ cvbcvbcbb
 
 Слияние с конфликтом
 
+<<<<<<< HEAD
 ветка 2
+=======
+ветка 3
+
+
+
+
+>>>>>>> vetka3
 
 
 vfbvcbcvbcvbvcb
