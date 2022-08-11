@@ -28,3 +28,5 @@ vetka2
 
 
 vbcvbcvbcvbvcbvc
+
+сейчас будем рушать
